@@ -1,6 +1,7 @@
 # Computer-Store-
 Database (MYSQL)
 First , some sql queries :
+for the application theres some problems with eclipse connection with java  :(
 ![Screenshot 2024-04-19 135446](https://github.com/EhabEllati14/Computer-Store-/assets/155006571/c9478526-14e2-441b-a0cd-b958ce56b30c)
 ![Screenshot 2024-04-19 135519](https://github.com/EhabEllati14/Computer-Store-/assets/155006571/90d459c3-6c32-4644-875f-96cef69fa953)
 ![Screenshot 2024-04-19 135532](https://github.com/EhabEllati14/Computer-Store-/assets/155006571/0040c15b-9327-42b2-9ea0-929f35093c87)
